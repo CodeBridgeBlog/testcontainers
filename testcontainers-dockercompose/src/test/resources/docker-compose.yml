@@ -1,0 +1,9 @@
+mongodb:
+        image: mongo
+#        ports:
+#            - 3306:3306
+#        environment:
+#            MYSQL_PASSWORD: password
+#            MYSQL_USER: user
+#        volumes:
+#            - ./:/etc/mysql/conf.d
